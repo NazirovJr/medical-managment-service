@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/message-analyzer/core/analyzer-core.iml" filepath="$PROJECT_DIR$/message-analyzer/core/analyzer-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-analyzer/core-api/analyzer-core-api.iml" filepath="$PROJECT_DIR$/message-analyzer/core-api/analyzer-core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-analyzer/dto/analyzer-dto.iml" filepath="$PROJECT_DIR$/message-analyzer/dto/analyzer-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-analyzer/utils/analyzer-utils.iml" filepath="$PROJECT_DIR$/message-analyzer/utils/analyzer-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-module/common.iml" filepath="$PROJECT_DIR$/common-module/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-module/dto/common-dto.iml" filepath="$PROJECT_DIR$/common-module/dto/common-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-module/common-services/common-services.iml" filepath="$PROJECT_DIR$/common-module/common-services/common-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-module/common-utils/common-utils.iml" filepath="$PROJECT_DIR$/common-module/common-utils/common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/device/core/core.iml" filepath="$PROJECT_DIR$/device/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-module/dependency-management-bom/dependency-management-bom.iml" filepath="$PROJECT_DIR$/common-module/dependency-management-bom/dependency-management-bom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/person-service/dependency-management-bom/dependency-management-bom (1).iml" filepath="$PROJECT_DIR$/person-service/dependency-management-bom/dependency-management-bom (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-analyzer/dependency-management-bom/dependency-management-bom (2).iml" filepath="$PROJECT_DIR$/message-analyzer/dependency-management-bom/dependency-management-bom (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/medical-monitoring/dependency-management-bom/dependency-management-bom (3).iml" filepath="$PROJECT_DIR$/medical-monitoring/dependency-management-bom/dependency-management-bom (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/device/device.iml" filepath="$PROJECT_DIR$/device/device.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/final project.iml" filepath="$PROJECT_DIR$/.idea/final project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medical-monitoring/medical-monitoring.iml" filepath="$PROJECT_DIR$/medical-monitoring/medical-monitoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/message-analyzer/message-analyzer.iml" filepath="$PROJECT_DIR$/message-analyzer/message-analyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medical-monitoring/core/monitoring-core.iml" filepath="$PROJECT_DIR$/medical-monitoring/core/monitoring-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medical-monitoring/core-api/monitoring-core-api.iml" filepath="$PROJECT_DIR$/medical-monitoring/core-api/monitoring-core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medical-monitoring/dto/monitoring-dto.iml" filepath="$PROJECT_DIR$/medical-monitoring/dto/monitoring-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medical-monitoring/utils/monitoring-utils.iml" filepath="$PROJECT_DIR$/medical-monitoring/utils/monitoring-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/person-service/person-service.iml" filepath="$PROJECT_DIR$/person-service/person-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/person-service/core/person-service-core.iml" filepath="$PROJECT_DIR$/person-service/core/person-service-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/person-service/core-api/person-service-core-api.iml" filepath="$PROJECT_DIR$/person-service/core-api/person-service-core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/person-service/dto/person-service-dto.iml" filepath="$PROJECT_DIR$/person-service/dto/person-service-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/person-service/migration/person-service-migration.iml" filepath="$PROJECT_DIR$/person-service/migration/person-service-migration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/person-service/utils/person-service-utils.iml" filepath="$PROJECT_DIR$/person-service/utils/person-service-utils.iml" />
+    </modules>
+  </component>
+</project>
